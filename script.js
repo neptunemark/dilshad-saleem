@@ -6,12 +6,12 @@ const person = {
     designation: "Managing Director",
     des_link_text: "@FSA Trading",
     des_link: "fsatrading.com",
-    contact: "./contact/farooque.vcf",
+    contact: "./contact/farooq2.vcf",
 };
 
 const contact ={
-    contact_no: "+971525190800",
-    whatsapp: "+971525190800",
+    contact_no: "+971561086102",
+    whatsapp: "+971561086102",
     location: "https://maps.google.com/?q=25.275780,55.309235",
     email: "fsatrading786@gmail.com",
 };
