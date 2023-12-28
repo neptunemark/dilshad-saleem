@@ -1,19 +1,19 @@
 const person = {
-    profile_pic: "./image/farooque.jpeg",
+    profile_pic: "./image/dilshad.jpg",
     profile_logo: "./image/DBI.jpg",
 
-    Name: "Muhammad Farooq",
-    designation: "Managing Director",
-    des_link_text: "@FSA Trading",
-    des_link: "fsatrading.com",
-    contact: "./contact/farooq2.vcf",
+    Name: "Dilshad Saleem",
+    designation: "Sales And Service Engineer",
+    des_link_text: "@AccoladeMed Trading",
+    des_link: "dilshadbme@gmail.com",
+    contact: "./contact/dilshad.vcf",
 };
 
 const contact ={
-    contact_no: "+971561086102",
-    whatsapp: "+971561086102",
-    location: "https://maps.google.com/?q=25.275780,55.309235",
-    email: "fsatrading786@gmail.com",
+    contact_no: "+97477826351",
+    whatsapp: "+97477826351",
+    location: "",
+    email: "dilshadbme@gmail.com",
 };
 
 const profilelogo=[
@@ -26,11 +26,11 @@ const profilelogo=[
 
 const links =[
     facebook={
-    visibil: true,
+    visibil: false,
     link:"https://www.facebook.com/fsatrading"
   },
     instagram={
-    visibil: true,
+    visibil: false,
     link:"https://instagram.com/fsatrading?igshid=MzRlODBiNWFlZA=="
   },
     skype={
@@ -38,12 +38,12 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     web={
-    visibil: true,
+    visibil: false,
     link:"https://fsatrading.com/"
   },
     linkedin={
     visibil: true,
-    link:"https://maps.app.goo.https://www.linkedin.com/in/muhammad-farooq-065b99296?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_appgl/zMguVmn3NbNHkdAb7"
+    link:"https://www.linkedin.com/in/dilshad-saleem-564945207?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app"
   },
     behance={
     visibil: false,
@@ -54,11 +54,11 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     mail={
-    visibil: true,
+    visibil: false,
     link:"fsatrading786@gmail.com"
   },
     google={
-    visibil: true,
+    visibil: false,
     link:"https://g.page/r/CTuFRiyLOPeaEBM/review"
   },
     telegram={
@@ -66,7 +66,7 @@ const links =[
     link:"https://maps.app.goo.gl/zMguVmn3NbNHkdAb7"
   },
     youtube={
-    visibil: true,
+    visibil: false,
     link:"https://www.youtube.com/@fsatrading1"
   },
     pinterest={
